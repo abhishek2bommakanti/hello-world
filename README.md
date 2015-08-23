@@ -6,3 +6,5 @@ Some more content added
 More content #2.
 
 Updates
+
+Branched update
